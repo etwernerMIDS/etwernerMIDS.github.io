@@ -1,2 +1,9 @@
-# etwernerMIDS.github.io
-Software Engineer &amp; Data Science Graduate Student
+An independent and self-motivated Software Engineer and Data Science graduate student with proven and tested programming, analysis, and research skills. Proficient in Python, R, Java, C, and SQL with a working knowledge of Hadoop and Spark.
+
+* [Machine Learning](https://github.com/etwernerMIDS/Machine_Learning)
+
+* [Data Engineering](https://github.com/etwernerMIDS/Data_Engineering)
+
+* [Statistics](https://github.com/etwernerMIDS/Statistics)
+
+* [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
