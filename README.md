@@ -4,9 +4,9 @@ Hi, I am Erin Werner and I am from Orange County, California.
   <img src="/images/headshot_circle.png" width="200" height="200">
 </p>
 
-*I am independent and self-motivated Software Engineer and Data Science graduate student with proven and tested programming, analysis, and research skills. I am proficient in Python, R, Java, C, and SQL with a working knowledge of Hadoop and Spark.*
+*I am an independent and self-motivated Software Engineer and Data Science graduate student with proven and tested programming, analysis, and research skills. I am proficient in Python, R, Java, C, and SQL with a working knowledge of Hadoop and Spark.*
 
-I have always had a passion for data science and I am very enthusiastic about improving customer experiences through the means of data analysis and would welcome any opportunity to contribute my skills. 
+I have always had a passion for data science and I am very enthusiastic about improving buisness operations through the means of data analysis and would welcome any opportunity to contribute my skills. 
 
 I am currently working towards my master’s in data science at the University of California, Berkeley. This program is expanding my interdisciplinary skill set while challenging me to think about the greater social impact of my data science project design. I am balancing my school work while working as a software engineer with a specialization in data migrations and reports.
 
