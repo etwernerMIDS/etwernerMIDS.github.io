@@ -1,6 +1,6 @@
 Hi, I am Erin Werner and I am from Orange County, California. 
 
-<img src="/images/headshot.png" width="200" height="200">
+<img src="/images/headshot.png" width="400" height="200">
 
 I am independent and self-motivated Software Engineer and Data Science graduate student with proven and tested programming, analysis, and research skills. Proficient in Python, R, Java, C, and SQL with a working knowledge of Hadoop and Spark.
 
