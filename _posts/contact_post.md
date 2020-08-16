@@ -8,3 +8,5 @@ E-Mail: erinwerner1997@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/erin-werner-03889b15a/
 
+GitHub: https://github.com/etwernerMIDS
+
