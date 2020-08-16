@@ -1,4 +1,4 @@
-Hi, I am Erin Werner and I am from Orange County, Califronia. 
+Hi, I am Erin Werner and I am from Orange County, California. 
 
 ![Headshot](/images/headshot.png)
 
