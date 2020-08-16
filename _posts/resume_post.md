@@ -1,3 +1,7 @@
+---
+title: Resume
+---
+
 # Erin T. Werner
 
 ## *EDUCATION*
