@@ -4,7 +4,7 @@ title: Resume
 
 <br />
 
-## Erin T. Werner  
+## Erin T. Werner   <br />
 
 
 #### *EDUCATION* <br />
