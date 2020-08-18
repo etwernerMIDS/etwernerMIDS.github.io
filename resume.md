@@ -2,9 +2,13 @@
 title: Resume
 ---
 
-# Erin T. Werner
 
-### *EDUCATION*
+## Erin T. Werner  
+_______________________________________________________________________________________________________________ <br />
+
+
+#### *EDUCATION* <br />
+
 
 University of California, Berkeley, CA - *2020 – Present*                   
 * M.Sc. in Information & Data Science
@@ -12,7 +16,9 @@ University of California, Berkeley, CA - *2020 – Present*
 University of California, San Diego, CA - *2015 – 2019*                    
 * B.S. in Applied Mathematics & Minor in Computer Science; College Honors – GPA: 3.58
 
-### *WORK & RESEARCH EXPERIENCE*
+
+#### *WORK & RESEARCH EXPERIENCE* <br />
+
 
 Software Engineer – eQ Technologic, Costa Mesa CA - *2019 – Present*
 * Created custom software solutions in Java to assist clients with their data management
@@ -29,7 +35,9 @@ Programing Assistant – Center for Peace & Security Studies, San Diego CA - *20
 * Collaborated with a team to construct a Web Scraping/SOAP Parsing tool in R
 * Assisted in data wrangling, data pre-processing, and data mining
 
-### *PROJECTS*
+
+#### *PROJECTS* <br />
+
 
 Food Recommendation System - *2020*
 * Constructed Collaborative Filtering model with Pearson similarity correlation  
