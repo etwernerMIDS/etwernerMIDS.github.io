@@ -2,9 +2,9 @@
 title: Resume
 ---
 
+<br />
 
 ## Erin T. Werner  
-_______________________________________________________________________________________________________________ <br />
 
 
 #### *EDUCATION* <br />
@@ -14,7 +14,9 @@ University of California, Berkeley, CA - *2020 – Present*
 * M.Sc. in Information & Data Science
 
 University of California, San Diego, CA - *2015 – 2019*                    
-* B.S. in Applied Mathematics & Minor in Computer Science; College Honors – GPA: 3.58
+* B.S. in Applied Mathematics & Minor in Computer Science; College Honors – GPA: 3.58 
+
+<br />
 
 
 #### *WORK & RESEARCH EXPERIENCE* <br />
@@ -33,8 +35,9 @@ Nuclear Data Analyst – Lawrence Livermore National Laboratory, Livermore CA - 
 Programing Assistant – Center for Peace & Security Studies, San Diego CA - *2017 – 2019*
 * Wrote software programs in R to generate data visualizations that were informative
 * Collaborated with a team to construct a Web Scraping/SOAP Parsing tool in R
-* Assisted in data wrangling, data pre-processing, and data mining
+* Assisted in data wrangling, data pre-processing, and data mining  
 
+<br />
 
 #### *PROJECTS* <br />
 
