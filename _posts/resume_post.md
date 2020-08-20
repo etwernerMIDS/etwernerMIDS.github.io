@@ -4,7 +4,7 @@ title: Resume
 
 <br />
 
-## Erin T. Werner  
+## Erin T. Werner   <br />
 
 
 #### *EDUCATION* <br />
@@ -56,5 +56,8 @@ March Madness Outcome Prediction - *2019*
 Unsupervised Vehicle Classifier - *2018*
 * Developed custom algorithms to transform data into suitable feature vectors
 * Optimized K-Means algorithm to build a representative vehicle classifier
+
+
+
 
 
