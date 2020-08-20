@@ -2,7 +2,9 @@
 title: Contact Information
 ---
 
-## Erin T. Werner
+<br />
+
+## Erin T. Werner <br />
 
 **From:** Aliso Viejo, CA 92656
 
@@ -10,9 +12,10 @@ title: Contact Information
 
 **E-Mail:** erinwerner1997@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/erin-werner-03889b15a/
+**LinkedIn:** www.linkedin.com/in/ErinWerner
 
 **GitHub:** https://github.com/etwernerMIDS
+
 
 
 
