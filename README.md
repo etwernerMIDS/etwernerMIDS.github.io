@@ -29,4 +29,4 @@ To see examples of my work, please explore the following links:
 
 * [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
 
-* [Time Series](https://github.com/etwernerMIDS/Time_Series)
+* [Discrete Response, Time Series, & Panel Data](https://github.com/etwernerMIDS/Time_Series)
