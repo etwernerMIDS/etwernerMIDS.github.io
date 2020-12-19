@@ -28,3 +28,5 @@ To see examples of my work, please explore the following links:
 * [Statistics](https://github.com/etwernerMIDS/Statistics)
 
 * [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
+
+* [Time Series](https://github.com/etwernerMIDS/Time_Series)
