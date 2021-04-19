@@ -30,3 +30,5 @@ To see examples of my work, please explore the following links:
 * [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
 
 * [Discrete Response, Time Series, & Panel Data](https://github.com/etwernerMIDS/Time_Series)
+
+* [Natural Language Processing](https://github.com/etwernerMIDS/Natural_Language_Processing)
