@@ -22,7 +22,7 @@ University of California, San Diego, CA - *2015 – 2019*
 #### *WORK & RESEARCH EXPERIENCE* <br />
 
 
-Software Engineer – eQ Technologic, Costa Mesa CA & Remote - *2019 – Present*
+Software Engineer – eQ Technologic, Costa Mesa CA/Remote - *2019 – Present*
 * Created custom software solutions in Java to assist clients with their data management
 * Designed analytic reports, utilizing SQL and BI, to provide insight on data migrations
 * Consulted with clients about their data needs and implemented the solutions
