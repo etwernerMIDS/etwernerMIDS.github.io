@@ -1,4 +1,4 @@
-Hi, I am Erin Werner from Orange County, California. 
+Hi, I am Erin Werner. I am originally from California and currently live in New York City. 
 
 <p align="center">
   <img src="/images/headshot_circle.png" width="200" height="200">
