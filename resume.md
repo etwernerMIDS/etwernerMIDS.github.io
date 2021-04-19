@@ -41,6 +41,8 @@ Programing Assistant – Center for Peace & Security Studies, San Diego CA - *20
 
 #### *PROJECTS* <br />
 
+Tweet NLP Sentiment Analysis - *2021*
+* Applied BERT Language Modeling to determine the emotion of text data with 92% accuracy 
 
 Food Recommendation System - *2020*
 * Constructed Collaborative Filtering model with Pearson similarity correlation  
