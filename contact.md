@@ -6,7 +6,7 @@ title: Contact Information
 
 ## Erin T. Werner <br />
 
-**From:** New York City, NY 10002
+**From:** New York City, NY 10012
 
 **Phone:** (949)-422-2388
 
