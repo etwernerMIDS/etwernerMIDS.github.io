@@ -4,7 +4,7 @@ Hi, I am Erin Werner. I am originally from California and currently live in New 
   <img src="/images/headshot_circle.png" width="200" height="200">
 </p>
 
-*I am an independent and self-motivated Software Engineer and Data Science graduate student with proven and tested programming, analysis, and research skills. I am proficient in Python, R, Java, C, and SQL with a working knowledge of Hadoop and Spark.*
+*I am an independent and self-motivated Software Engineer and Data Science graduate student with proven and tested programming, analysis, and research skills. I am proficient in Python, R, Java, C, Tableau, and SQL with a working knowledge of Hadoop and Spark.*
 
 I have always had a passion for data science and am very enthusiastic about improving buisness operations through the means of data analysis and would welcome any opportunity to contribute my skills. 
 
