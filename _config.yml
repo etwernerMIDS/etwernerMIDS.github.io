@@ -4,6 +4,11 @@ description: Software Engineer & Data Science Graduate Student
 
 plugins:
 - jekyll-remote-theme
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
 
 remote_theme: benbalter/retlab
 
