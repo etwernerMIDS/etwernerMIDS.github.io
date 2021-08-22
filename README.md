@@ -21,14 +21,17 @@ Due to my work experience, I enjoy applying my technical skills in ways that hav
 
 To see examples of my work, please explore the following links:
 
-* [Machine Learning](https://github.com/etwernerMIDS/Machine_Learning)
+* [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
 
 * [Data Engineering](https://github.com/etwernerMIDS/Data_Engineering)
 
-* [Statistics](https://github.com/etwernerMIDS/Statistics)
-
-* [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
+* [Data Visualization](https://github.com/etwernerMIDS/Visualizations)
 
 * [Discrete Response, Time Series, & Panel Data](https://github.com/etwernerMIDS/Time_Series)
 
+* [Machine Learning](https://github.com/etwernerMIDS/Machine_Learning)
+
 * [Natural Language Processing](https://github.com/etwernerMIDS/Natural_Language_Processing)
+
+* [Statistics](https://github.com/etwernerMIDS/Statistics)
+
