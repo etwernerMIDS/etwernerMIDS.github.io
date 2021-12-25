@@ -31,6 +31,8 @@ To see examples of my work, please explore the following links:
 
 * [Machine Learning](https://github.com/etwernerMIDS/Machine_Learning)
 
+* [Machine Learning at Scale](https://github.com/etwernerMIDS/Machine_Learning_at_Scale) 
+
 * [Natural Language Processing](https://github.com/etwernerMIDS/Natural_Language_Processing)
 
 * [Statistics](https://github.com/etwernerMIDS/Statistics)
