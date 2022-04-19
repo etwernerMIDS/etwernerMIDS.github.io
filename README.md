@@ -21,6 +21,8 @@ Due to my work experience, I enjoy applying my technical skills in ways that hav
 
 To see examples of my work, please explore the following links:
 
+* [Classification & Prediction](https://github.com/etwernerMIDS/Capstone)
+
 * [Data Analysis](https://github.com/etwernerMIDS/Data_Analysis)
 
 * [Data Engineering](https://github.com/etwernerMIDS/Data_Engineering)
