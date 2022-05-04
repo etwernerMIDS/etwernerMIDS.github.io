@@ -10,10 +10,11 @@ title: Resume
 #### *EDUCATION* <br />
 
 
-University of California, Berkeley, CA - *2020 – Present*                   
-* M.Sc. in Information & Data Science
+University of California, Berkeley, CA - *Jan 2020 – May 2022*                   
+* M.Sc. in Information & Data Science - GPA: 3.77
 
-University of California, San Diego, CA - *2015 – 2019*                    
+
+University of California, San Diego, CA - *Sep 2015 – Jun 2019*                    
 * B.S. in Applied Mathematics & Minor in Computer Science; College Honors – GPA: 3.58 
 
 <br />
@@ -21,8 +22,12 @@ University of California, San Diego, CA - *2015 – 2019*
 
 #### *WORK & RESEARCH EXPERIENCE* <br />
 
+Software Engineer – Goldman Sachs, New York NY/Remote - *2022 – Present*
+* Developed custom internal tools in Java to support private wealth management teams
+* Coordinated data filtering techniques across platforms, at scale
+* Strategized design and implementation for user optimization
 
-Software Engineer – eQ Technologic, Costa Mesa CA/Remote - *2019 – Present*
+Software Engineer – eQ Technologic, Costa Mesa CA/Remote - *2019 – 2022*
 * Created custom software solutions in Java to assist clients with their data management
 * Designed analytic reports, utilizing SQL and BI, to provide insight on data migrations
 * Consulted with clients about their data needs and implemented the solutions
@@ -40,6 +45,9 @@ Programing Assistant – Center for Peace & Security Studies, San Diego CA - *20
 <br />
 
 #### *PROJECTS* <br />
+
+NFT Price Prediction - *2022*
+* Built an ARIMA model to predict the price of an NFT with 84% precision
 
 Tweet NLP Sentiment Analysis - *2021*
 * Applied BERT Language Modeling to determine the emotion of text data with 92% accuracy 
